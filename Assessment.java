@@ -1,10 +1,17 @@
-
+/*
+ *
+ *This is a porgram that computes for
+ *
+ *
+ *
+ *
+ */
 import java.util.*;
 import java.io.*;
 import javax.swing.*;
 import java.lang.*;
 
-public class Assessment {
+public class Assessment { //Main Class
 	public static void main(String[] args) throws IOException {		
 		ArrayList<Student> stud = new ArrayList<Student>();
 		Scanner read;
